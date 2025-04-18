@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Gradle (caso tenha usado antes)
+.gradle/
+
+# Outros
+*.log
+*.tmp
+*.bak
+
